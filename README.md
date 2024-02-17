@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/ooMU8eSyUCJpp75E7oTNo/EeJm87kSY6ujiCj7VquUVP/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/ooMU8eSyUCJpp75E7oTNo/EeJm87kSY6ujiCj7VquUVP/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/ooMU8eSyUCJpp75E7oTNo/EeJm87kSY6ujiCj7VquUVP/tree/main.svg?style=svg&circle-token=273f823e66af8079924252f20ce0fa2fa1174cb9)](https://dl.circleci.com/status-badge/redirect/circleci/ooMU8eSyUCJpp75E7oTNo/EeJm87kSY6ujiCj7VquUVP/tree/main)
 
 # Introduction to JUnit 5 with Maven - CI Example
 
